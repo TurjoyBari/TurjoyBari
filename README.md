@@ -1,13 +1,21 @@
-
+![Banner](banner.jpeg)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rafiul+Bari+Turjo!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rafiul+Bari+Turjo!;Software+Engineer;Fullstack+Developer;AI+SAAS+Developer;Tech+Enthusiast;" />
+    <br>
+    <a href = "https://rafiul-bari-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-1E90FF?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+</a>
 </h1>
 
-<h3 align="center">A passionate software developer from Bangladesh</h3>
+
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
+
+
+<h3 align = "">A passionate software developer from Bangladesh</h3>
 
 <br/>
 
-<div align="center">
+<div align = "">
  
  🔭 I’m currently working on **a chat app**
  
@@ -17,9 +25,17 @@
 
 ⚡ Fun fact **Fany 😎**
 
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafiul-bari-turjo-b37001212)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rafiulbari.dev@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%230077B5.svg?logo=whatsapp&logoColor=white)](https://wa.me/8801767743402) 
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=TurjoyBari&label=Profile%20views&color=0e75b6&style=flat" alt="" />
+</p>
+
  </div>
  
-<div align="center"> 
+<!-- <div align="center"> 
   <a href="mailto:pedro.sales.bariturjo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -29,7 +45,7 @@
   <a href="#" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-</div>
+</div> -->
 
  <hr/>
  
