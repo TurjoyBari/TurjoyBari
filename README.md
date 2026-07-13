@@ -1,72 +1,162 @@
 ![Banner](banner.jpeg)
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rafiul+Bari+Turjo!;Software+Engineer;Fullstack+Developer;AI+SAAS+Developer;Tech+Enthusiast;" />
-    <br>
-    <a href = "https://rafiul-bari-dev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-1E90FF?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-</a>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;I'm+Rafiul+Bari+Turjo;Junior+MERN+Stack+Developer;Full+Stack+Web+Developer;React+%26+Next.js+Developer;Open+to+Work+🚀" />
+  <br>
+
+  <a href="https://rafiul-bari-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/TurjoyBari">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/rafiul-bari-turjo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </h1>
 
+---
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
+<img align="right" width="320" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"/>
 
+## 👨‍💻 About Me
 
-<h3 align = "">A passionate software developer from Bangladesh</h3>
+I'm **Rafiul Bari Turjo**, a passionate **Junior MERN Stack Developer** from **Bangladesh 🇧🇩**.
 
-<br/>
+I enjoy building modern, responsive, and scalable full-stack web applications using the MERN stack. I'm continuously learning new technologies, solving coding problems, and creating real-world projects that improve my development skills.
 
-<div align = "">
- 
- 🔭 I’m currently working on **a chat app**
- 
- 🌱 I’m currently learning **Tailwind,React native expo**
+- 🔭 Currently building **AI-powered Full Stack Applications**
+- 🌱 Learning **Next.js, React Native (Expo), AI Integration & System Design**
+- 💬 Ask me about **React, Next.js, Node.js, Express.js, MongoDB**
+- 🎯 Goal: Become a skilled Software Engineer and contribute to impactful products
+- ⚡ Fun Fact: I love turning ideas into real-world applications 🚀
 
-💬 Ask me about **Node.js, React,Firebase**
+---
 
-⚡ Fun fact **Fany 😎**
+## 🚀 Current Activities
 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafiul-bari-turjo-b37001212)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rafiulbari.dev@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%230077B5.svg?logo=whatsapp&logoColor=white)](https://wa.me/8801767743402) 
+- 💻 Building full-stack MERN applications
+- 🤖 Developing AI-powered web applications
+- 📚 Practicing Data Structures & Algorithms
+- 🌱 Learning React Native (Expo) and Next.js
+- 🎯 Preparing for Junior MERN Stack Developer opportunities
+- 🚀 Improving problem-solving and system design skills
+
+---
+
+## 📫 Connect With Me
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=TurjoyBari&label=Profile%20views&color=0e75b6&style=flat" alt="" />
+
+<a href="mailto:rafiulbari.dev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rafiul-bari-turjo/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/8801767743402">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://rafiul-bari-dev.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </p>
 
- </div>
- 
-<!-- <div align="center"> 
-  <a href="mailto:pedro.sales.bariturjo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/rafiul-bari-turjo-b37001212" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="#" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div> -->
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=TurjoyBari&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+---
+
+# 💻 Tech Stack
+
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nextjs,tailwind,bootstrap,mui"/>
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,firebase"/>
+</p>
+
+---
+
+## 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
+</p>
+
+---
+
+## 📖 Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,python"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech | Live |
+|---------|-------------|------|------|
+| 🏋️ Vigor | AI-powered Fitness & Gym Management Platform | MERN Stack | [🔗 Live](https://vigor-client.vercel.app/) |
+| 🤖 AI Mock Interview | AI Interview Practice & Evaluation Platform | Next.js, AI, MongoDB | [🔗 Live](https://ai-mock-interview-rust-one.vercel.app/) |
+| 📚 Book Borrowing System | Book Borrowing Management Platform | React, Express, MongoDB | [🔗 Live](https://book-borrowing.vercel.app/) |
+| 🚗 Dreams Car | Car Booking & Management Platform | MERN Stack | [🔗 Live](https://dreams-car-client.vercel.app/) |
+
+---
+
+# 📊 GitHub Stats
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" /><br>
-</div>
-<br/>
 
-<hr/>
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=TurjoyBari&theme=react&border_radius=10"/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=TurjoyBari&show_icons=true&theme=react&rank_icon=github&border_radius=10"/>
+
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=turjoybari&count_private=true&theme=react&border_radius=10" alt=" streak stats"/>
- 
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=turjoybari&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=turjoybari&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+<img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurjoyBari&layout=compact&theme=react"/>
+
 </div>
 
-<br/>
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TurjoyBari&theme=react-dark"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in collaborating on exciting projects and connecting with fellow developers.
+
+💼 Open to **Junior MERN Stack Developer**, **Frontend Developer**, and **Full Stack Developer** opportunities.
+
+⭐ Thanks for visiting my profile! Have a great day!
