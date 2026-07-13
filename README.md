@@ -149,6 +149,7 @@ I enjoy building modern, responsive, and scalable full-stack web applications us
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TurjoyBari&theme=react-dark"/>
 
+![Snake](https://raw.githubusercontent.com/TurjoyBari/TurjoyBari/output/grid.svg)
 </p>
 
 ---
